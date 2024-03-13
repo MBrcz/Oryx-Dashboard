@@ -1,6 +1,8 @@
 -------------------------------------
 Date: 01.01.2024
 -------------------------------------
+UPDATED: 16/02/2024
+
 
 Attack on Europe 2022
 
@@ -19,4 +21,9 @@ https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.htm
 
 Used technologies:
 Python - Python Software Foundation; (for Web Scrapper - tool for gathering data),
-Excel, Power Bi - Microsoft Corporation, Inc. (for the report).
+Ms Excel, Power Bi, Power Query, Dax, Power Pivot - Microsoft Corporation, Inc. (for the report).
+
+
+------------------
+Update (16/02/2024):
+Added the version of the project made in Ms Excel. In order for project to work - user must enable macros (in other cases user will be soft blocked in first page only).
