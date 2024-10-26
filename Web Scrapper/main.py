@@ -9,6 +9,8 @@ Starting file of whole operation.
 """
 
 _WEBSITES = {
+    # "Russia": "https://web.archive.org/web/20240831181337/https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html",
+    # "Ukraine": "https://web.archive.org/web/20240831180519/https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html"
     "Russia": "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html",
     "Ukraine": "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html"
 }
